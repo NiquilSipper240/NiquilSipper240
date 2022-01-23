@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @NiquilSipper240
-- 👀 I’m interested in lean and coding...
-- 🌱 I’m currently learning how to pour fours...
-- 💞️ I’m looking to collaborate on XP4...
-- 📫 How to reach me ... https://discord.gg/p8sxzB9AQu
-<!---
-NiquilSipper240/NiquilSipper240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#--hi-
